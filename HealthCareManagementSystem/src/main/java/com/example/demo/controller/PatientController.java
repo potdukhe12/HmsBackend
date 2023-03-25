@@ -18,7 +18,7 @@ import com.example.demo.entities.Patient;
 import com.example.demo.entities.Treatment;
 import com.example.demo.services.PatientService;
 
-@CrossOrigin(origins = "http://localhost:3000")
+@CrossOrigin(origins = "http://172.31.47.132:3000")
 @RestController
 public class PatientController {
 
